@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sankardkalaga
+- 👋 Hi, I’m Sankar Kalaga
 - 👀 I’m interested in Machine Learning, Deep Learning and Reinforcement Learning
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on Reinforcement Learning projects
