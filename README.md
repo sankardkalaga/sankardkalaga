@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sankardkalaga
-- 👀 I’m interested in Machine Learning, Deep learning and Reinforcement learning
-- 🌱 I’m currently learning Reinforcement learning
+- 👀 I’m interested in Machine Learning, Deep Learning and Reinforcement Learning
+- 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on Reinforcement Learning projects
 - 📫 How to reach me on www.linkedin.com/in/sankardkalaga 
 
