@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning and Reinforcement Learning
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on Reinforcement Learning projects
-- 📫 How to reach me on www.linkedin.com/in/sankardkalaga 
+- 📫 Reach me on www.linkedin.com/in/sankardkalaga 
 
 <!---
 sankardkalaga/sankardkalaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
